@@ -1,4 +1,5 @@
 # A-share 投资研究分析报告
+![Impact Poster](github_release/assets/poster.png)
 
 > **报告时间**: {DATE}
 > **分析对象**: {TARGET}
